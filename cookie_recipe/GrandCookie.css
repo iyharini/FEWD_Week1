@@ -1,0 +1,36 @@
+header{
+  color: black;
+  padding: 20px;
+}
+h1{
+  text-align: center;
+}
+body{
+  background-color:#FFE;
+  font-family: Arial;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+  IMG.cookies {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+a:link{
+  color: #900
+}
+li{
+  background-color: lightgray;
+  padding:4px;
+  margin: 4px;
+}
+
+p.chocolate{
+  text-align: center;
+}
+h4{
+  color:#887
+}

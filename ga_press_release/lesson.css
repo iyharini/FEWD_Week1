@@ -11,9 +11,10 @@ p{
   background-color: lightgrey;
   padding:10px;
 }
-ul{
+.galist{
   font-family: Arial;
-list-style-type: none;
+  /*list-style-type: none;*/
+  list-style-image: url("GAicon.png");
 }
 li{
   background-color: lightgray;

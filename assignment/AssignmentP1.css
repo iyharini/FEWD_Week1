@@ -1,0 +1,28 @@
+hr.Thick{
+    height: 5px;
+    background-color: black;
+}
+h2{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+IMG.JustAPic{
+float: right;
+}
+body{
+  margin:10px 100px 30px 40px;
+  text-align: center;
+}
+h3{
+  font-family: Arial;
+}
+
+h4{
+  display: inline;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
