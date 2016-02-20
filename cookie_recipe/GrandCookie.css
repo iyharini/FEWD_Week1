@@ -13,10 +13,12 @@ body{
     margin-left: 80px;
 }
 
-  IMG.cookies {
+  .cookies {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    border: 10px green;
+    padding: 10px;
   }
 
 a:link{
@@ -28,7 +30,7 @@ li{
   margin: 4px;
 }
 
-p.chocolate{
+.chocolate{
   text-align: center;
 }
 h4{
